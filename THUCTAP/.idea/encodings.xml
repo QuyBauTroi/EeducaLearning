@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$USER_HOME$/Downloads/ezyplatform/admin/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/ezyplatform/admin/settings" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/ezyplatform/settings" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/ezyplatform/web/resources" charset="UTF-8" />
+    <file url="file://$USER_HOME$/Downloads/ezyplatform/web/settings" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/educa-admin-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/educa-admin-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/educa-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/educa-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/educa-theme/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/educa-theme/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/educa-web-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/educa-web-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/educa/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/education-admin-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/education-admin-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/education-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/education-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/education-theme/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/education-theme/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/education-web-plugin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/education-web-plugin/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/TienAn/education/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-devtools/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-devtools/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-parent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-parent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-admin-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-admin-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-common-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-common-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-http-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-http-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-socket-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-socket-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-web-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/ezyplatform-web-sdk/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ezyplatform-development/ezyplatform-sdk/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html
+        xmlns="http://www.w3.org/1999/xhtml"
+        xmlns:th="http://www.thymeleaf.org"
+        xmlns:ezy="http://www.ezyplatform.com/thymeleaf/layout"
+        xmlns:layout="http://www.ultraq.net.nz/thymeleaf/layout"
+        layout:decorate="~{ezytheme}">
+<body>
+<div layout:fragment="content">
+    <!--cotact starts-->
+    <section class="contact" id="contact">
+        <h1 class="heading"><span>contact </span>us</h1>
+
+        <div class="row">
+            <div class="imgage">
+                <img src="images/Contact us-bro.png">
+            </div>
+
+            <form action="" method="post">
+                <span>your name</span>
+                <input type="text" required placeholder="enter your full name" maxlength="50" name="name" class="box">
+                <span>your email</span>
+                <input type="email" required placeholder="enter your valie email" maxlength="50" name="email" class="box">
+                <span>your number</span>
+                <input type="number" required placeholder="enter your valie number" max="99999999999" min="0" name="number" class="box" onkeypress="if(this.value.length == 10) return false;">
+                <span>select course</span>
+                <select name="course" class="box">
+                    <option value="" disabled selected>select your courses --</option>
+                    <option value="web development">web development</option>
+                    <option value="science and biology">science and biology</option>
+                    <option value="engineering">engineering</option>
+                    <option value="digital marketing">digital marketin</option>
+                    <option value="graphic Design">graphic Design</option>
+                    <option value="teaching">teaching</option>
+                    <option value="social studies">social studies</option>
+                    <option value="data analysis">data analysis</option>
+                    <option value="artificial intelligence">artificial intelligence</option>
+                </select>
+                <span>select gender</span>
+                <div class="radio">
+                    <input type="radio" name="gender" value="male" id="male">
+                    <label for="male">male</label>
+                    <input type="radio" name="gender" value="female" id="female">
+                    <label for="female">female</label>
+                </div>
+                <input type="submit" value="send message" class="btn" name="send" >
+            </form>
+        </div>
+    </section>
+    <!--cotact ends-->
+</div>
+
+</body>
+</html>
